@@ -1,1 +1,3 @@
 # Cinema-Room-Manager
+
+ A simple command line application that helps manage a cinema theatre: sell tickets, check available seats, see sales statistics, and more.
