@@ -81,7 +81,7 @@ public class Cinema {
             } else {
                 ticketPrice = 8;
             }
-        } else {                           // odd number off rows
+        } else {                           // odd number of rows
                  // front seats
             if ((numberOfRows == 3 && chosenRowNumber <= 1) || (numberOfRows == 5 && chosenRowNumber <= 2)
                     || (numberOfRows == 7 && chosenRowNumber <= 3) || (numberOfRows == 9 && chosenRowNumber <= 4)) {
